@@ -1,0 +1,5 @@
+{
+  "name": "Receipt Master OCR",
+  "description": "A minimalist receipt OCR tool that transforms documents and emails into structured tables and integrates with Google Docs.",
+  "requestFramePermissions": []
+}
